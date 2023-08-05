@@ -1,1 +1,1 @@
-# kurish
+# kurdish
